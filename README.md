@@ -2,6 +2,17 @@ Starter repository for the [Manning liveProject](https://liveproject.manning.com
 
 **By**: [Souradip Chakraborty](https://www.linkedin.com/in/souradip-chakraborty/) & [Sayak Paul](https://www.linkedin.com/in/sayak-paul/)
 
-**About this liveProject**: Imagine being a deep learning newbie and you are about to begin a Google search with the phrase “deep learning resources”. For an absolute newbie, the search results might feel overwhelming. Wouldn’t it be nice if there was a summary of the important resources that one should check on when starting to learn deep learning? Of course, it would. So, now the question becomes who would do that hard work? Can’t we have intelligent systems that can do this heavy lifting for us? 
+## About this liveProject
 
-Enter text summarization that is known to be a well-studied and well-researched problem in the intersection of NLP and Deep Learning. At the current times, when there is a plethora of information but a shortage of time, an automatic text summarizer can enhance one’s productivity to a great extent. In the two parts of this liveProject, you will be filling in the shoes of an NLP Engineer to work on building an automatic text summarizer for your colleagues at a News Media firm. This hypothetical News Media firm uses flashcards of broad news articles to design the front page of their blog that is read by more than a million readers across the globe. To develop the content for these flashcards, the news editors currently manually summarize the prospective news articles, and needless to say, this process is very time-consuming. This text summarizer will be used by the news editors to automatically generate these summaries that could act as fairly good starting points. 
+In this liveProject, you will be filling in the shoes of an NLP Engineer to work on building an automatic text summarizer for your colleagues at a News Media firm. This hypothetical News Media firm uses flashcards of broad news articles to design the front page of their blog that is read by more than a million readers across the globe. To develop the content for these flashcards, currently, the news editors manually summarize the prospective news articles, and needless to say, this process is very time-consuming. This text summarizer will be used by the news editors to automatically generate these summaries that could act as fairly good starting points. 
+
+This text summarizer is going to play a very crucial role in reducing the turnaround time for the news editors in developing the content for the flashcards. Your first assignment as a newly hired NLP Engineer would be to develop a PoC (proof of concept) text summarizer so that the stakeholders can properly plan out the next steps.
+
+The steps would briefly include - 
+
+* Converting an abstractive text summarization dataset to conform to extractive text summarization with the help of Rouge score. 
+* Visualizing the newly prepared dataset and extracting meaningful summary statistics from it. For example - highest news article length, highest summary length, and so on.
+* Preprocessing the dataset with basic NLP techniques like tokenization, padding, and so on. 
+* Building deep learning models with attention mechanism that are able to produce meaningful summary candidates from a news article. 
+* Preparing an overall report of the most performing deep learning models from your experiments for the stakeholders. 
+
