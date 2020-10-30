@@ -1,4 +1,4 @@
-Starter repository for the [Manning liveProject](https://liveproject.manning.com/): **What's the news: Summarize news articles with NLP, Deep Learning, and Python** (_Under active development_). This repository contains the intermediate files that might be helpful for the learners of this liveProject. Those files reside [here](https://github.com/Manning-LP-What-s-The-News/Starter-Repository/releases). 
+Starter repository for the Manning liveProject: [Summarize News Articles with NLP, Deep Learning, and Python](https://www.manning.com/liveproject/summarize-news-articles-with-nlp-deep-learning-and-python). This repository contains the intermediate files that might be helpful for the learners of this liveProject. Those files reside [here](https://github.com/Manning-LP-What-s-The-News/Starter-Repository/releases). 
 
 **By**: [Souradip Chakraborty](https://www.linkedin.com/in/souradip-chakraborty/) & [Sayak Paul](https://www.linkedin.com/in/sayak-paul/)
 
@@ -15,4 +15,3 @@ The steps would briefly include -
 * Preprocessing the dataset with basic NLP techniques like tokenization, padding, and so on. 
 * Building deep learning models with attention mechanism that are able to produce meaningful summary candidates from a news article. 
 * Preparing an overall report of the most performing deep learning models from your experiments for the stakeholders. 
-
