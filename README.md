@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/KxkB7vW/Whats-App-Image-2020-10-30-at-21-03-27.jpg" width=240 align="left"></img>
+<img src="https://i.ibb.co/MDkYbDS/image.png" width=240 align="left"></img>
 
 Starter repository for the Manning liveProject: [Summarize News Articles with NLP, Deep Learning, and Python](https://www.manning.com/liveproject/summarize-news-articles-with-nlp-deep-learning-and-python). This code **lpsumnlp20** is always good for a 35% discount on the liveProject. This repository contains the intermediate files that might be helpful for the learners of this liveProject. Those files reside [here](https://github.com/Manning-LP-What-s-The-News/Starter-Repository/releases). 
 
