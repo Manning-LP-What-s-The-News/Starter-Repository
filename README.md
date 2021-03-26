@@ -1,6 +1,6 @@
-<img src="https://i.ibb.co/MDkYbDS/image.png" width=240 align="left"></img>
+<img src="https://images.manning.com/264/352/resize/liveProject/1/09d87ee-8a09-445c-a613-9d8fd509f676/SummarizeNewsArticleswithNLPandTensorFlow.jpg" align="left"></img>
 
-Starter repository for the Manning liveProject: [Summarize News Articles with NLP, Deep Learning, and Python](https://www.manning.com/liveproject/summarize-news-articles-with-nlp-deep-learning-and-python). This code **lpsumnlp20** is always good for a 35% discount on the liveProject. This repository contains the intermediate files that might be helpful for the learners of this liveProject. Those files reside [here](https://github.com/Manning-LP-What-s-The-News/Starter-Repository/releases). 
+Starter repository for the Manning liveProject: Summarize News Articles with NLP and TensorFlow](https://www.manning.com/liveproject/summarize-news-articles-with-nlp-and-tensorflow). This code **lpsumnlp20** is always good for a 35% discount on the liveProject. This repository contains the intermediate files that might be helpful for the learners of this liveProject. Those files reside [here](https://github.com/Manning-LP-What-s-The-News/Starter-Repository/releases). 
 
 **By**: [Souradip Chakraborty](https://www.linkedin.com/in/souradip-chakraborty/) & [Sayak Paul](https://www.linkedin.com/in/sayak-paul/)
 
